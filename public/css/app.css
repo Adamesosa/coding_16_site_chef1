@@ -17914,6 +17914,29 @@ a:hover {
   font-family: 'courgette';
 }
 
+.prix-rougesite {
+  color: red;
+  font-size: 20px;
+}
+
+.text-rougesite {
+  color: red;
+  font-size: 50px;
+}
+
+.titre-site {
+  font-family: 'courgette';
+}
+
+.chefback {
+  background-image: url("../img/team_background.jpg");
+}
+
+.chef- {
+  justify-content: center;
+  display: flex;
+}
+
 body {
   margin: 0;
   background-image: url("../img/main_bg.jpg");
