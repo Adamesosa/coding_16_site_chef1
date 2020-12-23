@@ -12,11 +12,29 @@
     
 }
 
-.chefback{
-    background-image: url('../img/team_background.jpg');
+.chefs-1{
+    background-image: url("../../../public/img/team_background.jpg");
+    height: 100vh;
+    .liste-chef{
+        h2{
+            font-family: "courgette";
+            color:white;
+            .meet{
+                color: #C12D3F;
+                font-size:50px;
+            }
+            .chef-text{
+                color:white;
+            }
+        }
+        .photo-s1{
+            .chef1{
+                p{
+                    font-family: "Ubuntu";
+                }
+            }
+        }
 
-}
-.chef-{
-    justify-content: center;
-    display: flex;
+    }
+
 }
