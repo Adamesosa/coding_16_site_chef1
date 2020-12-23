@@ -116,3 +116,68 @@
         }
     }
 }
+// fin
+
+// debut contact
+
+.sectioncontact{
+    h3{
+        font-family:"courgette";
+        .our{
+            font-family:"courgette";
+            color: #B32A3A;
+            font-size: 50px;
+        }
+    }
+
+    .contact{
+        background-color: #C12D3F;
+        border-radius: 15px;
+        width: 50%;
+
+        a{
+            .fas{
+                font-size: 50px;
+                color: white;
+            }
+        }
+        
+        hr{
+            background-color: white;
+        }
+    }
+  
+}
+// fin 
+// debut footer 
+footer{
+    background-image: url("../../../public/img/footer_background.jpg");
+
+    .option{
+        .popular-tags{
+            button{
+                background-color:#C12D3F;
+                border-radius: 20px;
+                border: 2px solid white;
+            }
+        }
+        .instagram{
+            img{
+                width: 80px;
+                padding:4px;
+            }
+        }
+        .about-us{
+            width: 30%;
+            .icons{
+                .fab{
+                    color:white;
+                    font-size: 30px;
+
+                }
+            }
+        }
+    }
+}
+
+// fin

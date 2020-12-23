@@ -18022,6 +18022,55 @@ a:hover {
   font-size: 50px;
 }
 
+.sectioncontact h3 {
+  font-family: "courgette";
+}
+
+.sectioncontact h3 .our {
+  font-family: "courgette";
+  color: #B32A3A;
+  font-size: 50px;
+}
+
+.sectioncontact .contact {
+  background-color: #C12D3F;
+  border-radius: 15px;
+  width: 50%;
+}
+
+.sectioncontact .contact a .fas {
+  font-size: 50px;
+  color: white;
+}
+
+.sectioncontact .contact hr {
+  background-color: white;
+}
+
+footer {
+  background-image: url("../../../public/img/footer_background.jpg");
+}
+
+footer .option .popular-tags button {
+  background-color: #C12D3F;
+  border-radius: 20px;
+  border: 2px solid white;
+}
+
+footer .option .instagram img {
+  width: 80px;
+  padding: 4px;
+}
+
+footer .option .about-us {
+  width: 30%;
+}
+
+footer .option .about-us .icons .fab {
+  color: white;
+  font-size: 30px;
+}
+
 body {
   margin: 0;
   background-image: url("../img/main_bg.jpg");
