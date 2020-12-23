@@ -18007,6 +18007,21 @@ a:hover {
   background-color: #C12D3F;
 }
 
+.sectionclient {
+  background-image: url("../../../public/img/testimonials_background.jpg");
+  height: 59vh;
+}
+
+.sectionclient h3 {
+  font-family: "courgette";
+}
+
+.sectionclient h3 .client {
+  font-family: "courgette";
+  color: #B32A3A;
+  font-size: 50px;
+}
+
 body {
   margin: 0;
   background-image: url("../img/main_bg.jpg");
