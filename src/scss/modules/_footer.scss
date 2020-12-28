@@ -1,11 +1,11 @@
 // debut footer 
 footer{
-    background-image: url("../../../public/img/footer_background.jpg");
+    background-image: url("../img/footer_background.jpg");
 
     .option{
         .popular-tags{
             button{
-                background-color:#C12D3F;
+                
                 border-radius: 20px;
                 border: 2px solid white;
             }
@@ -22,6 +22,7 @@ footer{
                 .fab{
                     color:white;
                     font-size: 30px;
+                    
 
                 }
             }
